@@ -34,7 +34,7 @@ After 12 years in London managing **large-scale design and construction projects
 ---
 
 ### 📫 Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/beatriz-conchado-peiro-a0276880/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-conchado-peiro-a0276880/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatriz.conchado.peiro@gmail.com)
 
 ---
