@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-After 10 years in London managing **large-scale design and construction projects**, I’ve transitioned into tech — combining my experience **leading teams and delivering complex projects** with my passion for **web development** 🚀.
+After 10 years in London managing **large-scale design and strategy projects**, I am now focusing on digital products and tech projects — combining my experience **leading teams and delivering complex projects** with my passion for **web development** 🚀.
 
 I recently graduated from the **Full Stack Development Bootcamp at [The Bridge](https://www.thebridge.tech/)**.
 
