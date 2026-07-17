@@ -29,9 +29,9 @@ After 10 years in London managing **large-scale design and strategy projects**, 
 ---
 
 ### 🌱 Currently
-- 🔭 Building projects to sharpen my full stack skills
-- 💬 Learning more about React, HTML, CSS and backend architecture
-- 🤝 Looking for a role in tech
+- 🔭 Building products and side projects
+- 💬 Learning and exploring new technologies
+- 🤝 Enjoying collaboration with cross-functional teams
 
 ---
 
