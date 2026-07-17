@@ -2,8 +2,6 @@
 
 After 10 years in London managing **large-scale design and strategy projects**, I am now focusing on digital products and tech projects — combining my experience **leading teams and delivering complex projects** with my passion for **web development** 🚀.
 
-I completed the **Full Stack Development Bootcamp at [The Bridge](https://www.thebridge.tech/)** earlier this year.
-
 ---
 
 ### 💻 Tech Stack
